@@ -59,3 +59,11 @@
   border-radius: 5px;
   background-color: #fff;
 }
+
+.profile_picture{
+  max-height: 200px;
+}
+
+.profile h2{
+  color: burlywood;
+}
